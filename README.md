@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/nNyBOZC.gif)
+![](https://i.imgur.com/6S8eAWu.gif)
 
 
 ## Reflection Questions
