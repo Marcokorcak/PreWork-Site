@@ -39,11 +39,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 The gif below shows the user losing and making mistakes
 
 ![](https://i.imgur.com/6S8eAWu.gif)
 
 The gif below shows the user winning the game
+
 ![](https://i.imgur.com/lCrn3x7.gif)
 
 ## Reflection Questions
