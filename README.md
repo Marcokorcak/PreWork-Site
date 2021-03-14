@@ -50,6 +50,7 @@ The gif below shows the user winning the game
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+ 
  When doing this work I had trouble working with the images and sizing them so I used w3schools for reference to get an idea of how to approach the problem. Link: https://www.w3schools.com/cssref/pr_background-image.asp 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
