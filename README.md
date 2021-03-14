@@ -42,6 +42,7 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/6S8eAWu.gif)
 
+![](https://i.imgur.com/lCrn3x7.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
