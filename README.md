@@ -6,7 +6,7 @@ Submitted by: Marco Korcak
 
 Time spent: 5 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com/edit/#!/cut-incandescent-microwave)
+Link to project: (https://glitch.com/edit/#!/cut-incandescent-microwave)
 
 ## Required Functionality
 
