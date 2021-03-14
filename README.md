@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] User is alerted and get a notification when they make a mistake saying how many mistakes they have made
+- [X] User is alerted and gets a notification when they make a mistake saying how many mistakes they have made
 
 ## Video Walkthrough
 
