@@ -37,12 +37,20 @@ button {
 }
 
 #button3 {
-    background: pink;
+    background: purple;
 }
 
 #button4 {
     background: lightyellow;
 }
+#button5 {
+    background: red;
+}
+
+#button6 {
+    background: orange;
+}
+
 
 #button1:active, #button1.lit {
     background:green;
@@ -51,8 +59,14 @@ button {
     background:blue;
 }
 #button3:active, #button3.lit {
-    background:red;
+    background:grey;
 }
 #button4:active, #button4.lit {
     background:yellow;
+}
+#button5:active, #button5.lit {
+    background:darkred;
+}
+#button6:active, #button6.lit {
+    background:darkorange;
 }
